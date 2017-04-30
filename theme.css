@@ -25,9 +25,13 @@ background-color: rgb(130, 27, 30);
 
 .button {display: block;
 width: 115px;
+margin-left: 1005px ;
+margin-right: 0px ;
 height: 25px;
 background: #4E9CAF;
 padding: 10px;
+position: absolute;
+bottom: 550px;
 text-align: center;
 border-radius: 5px;
 color: white;
@@ -35,4 +39,8 @@ font-weight: bold;
     
 }
 
-   
+textarea {height: 100px;
+width: 300px;
+background-color: rgb(66, 134, 244)
+    
+}
