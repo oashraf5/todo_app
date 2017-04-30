@@ -5,3 +5,31 @@ h1 {
 .titleclass {
     color: black;
 }
+
+.firstpair {
+    color: orange;
+}
+
+.secondpair {
+    color: blue;
+}
+
+.thirdpair {
+    color: black;
+}
+
+.div1 {
+    background-color: orange;
+height: 100px;
+width: 100px;  
+
+    display: inline-table
+}
+
+.div2 {
+    background-color: blue;
+height: 100px;
+width: 100px;
+
+    display: inline-table
+}
