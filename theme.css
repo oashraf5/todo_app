@@ -18,18 +18,21 @@ h1 {
     color: black;
 }
 
-.div1 {
-    background-color: orange;
-height: 100px;
-width: 100px;  
+body{
+background-color: rgb(130, 27, 30); 
 
-    display: inline-table
 }
 
-.div2 {
-    background-color: blue;
-height: 100px;
-width: 100px;
-
-    display: inline-table
+.button {display: block;
+width: 115px;
+height: 25px;
+background: #4E9CAF;
+padding: 10px;
+text-align: center;
+border-radius: 5px;
+color: white;
+font-weight: bold; 
+    
 }
+
+   
